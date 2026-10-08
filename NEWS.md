@@ -1,3 +1,3 @@
 # coreview (development version)
 
-* Initial CRAN submission.
+* Initial pre-CRAN version.
