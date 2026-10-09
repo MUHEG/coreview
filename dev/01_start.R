@@ -26,7 +26,7 @@ golem::fill_desc(
 		given = "Mengmeng", # Your First Name
 		family = "Wang", # Your Last Name
 		email = "mengmeng.wang@orygen.org.au", # Your email
-		role = c("aut", "cre"), # Your role (here author/creator)
+		role = c("aut", "cre", "cph"), # Your role (here author/creator)
 		comment = c(ORCID = "0000-0001-5486-4208")
 	),
 	person(given = "Matthew", family = "Hamilton", 	email = "matthew.hamilton1@monash.edu", role = c("aut"),

@@ -5,5 +5,9 @@
 #' @import shiny
 #' @noRd
 app_server <- function(input, output, session) {
-	# Your application server logic
+  
+  mod_coreview_main_server(
+    "coreview_main_1"
+  )
+  
 }
